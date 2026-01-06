@@ -1,14 +1,42 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+#  Gemini API Powered Web App
 
-## Run Locally
+This project is a web application powered by the **Gemini API**.  
+It can be run locally using **Node.js** and configured with environment variables.
 
-**Prerequisites:**  Node.js
+---
 
+##  Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- **Node.js**
+- **npm**
+- **Gemini API**
+- **JavaScript / Web Framework**
+
+---
+
+## Prerequisites
+
+Ensure the following are installed on your system:
+
+- **Node.js** (v18 or higher recommended)  
+  👉 https://nodejs.org/
+- **npm** (included with Node.js)
+- **Gemini API Key**
+
+---
+
+##  Get Gemini API Key
+
+1. Visit: https://ai.google.dev/
+2. Generate an API key
+3. Copy and save the key securely
+
+---
+
+##  Run the App Locally
+
+### 1️ Clone the repository
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
